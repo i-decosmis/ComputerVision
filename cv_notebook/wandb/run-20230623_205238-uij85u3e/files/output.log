@@ -1,0 +1,233 @@
+Number of elements in the train set: 362
+Number of elements in the validation set: 93
+Number of elements in the test set: 102
+Total number of parameters: 8642739
+Epoch: 1/1000 | Mse loss: 0.1247
+entro: inf
+Epoch: 2/1000 | Mse loss: 0.0639
+entro: 0.10802991688251495
+Epoch: 3/1000 | Mse loss: 0.0163
+entro: 0.019754493609070778
+Epoch: 4/1000 | Mse loss: 0.0146
+entro: 0.017978545278310776
+Epoch: 5/1000 | Mse loss: 0.0155
+entro: 0.016914425417780876
+Epoch: 6/1000 | Mse loss: 0.0155
+entro: 0.01580314338207245
+Epoch: 7/1000 | Mse loss: 0.0127
+entro: 0.013095824979245663
+Epoch: 8/1000 | Mse loss: 0.0124
+entro: 0.012529371306300163
+Epoch: 9/1000 | Mse loss: 0.0120
+Epoch: 10/1000 | Mse loss: 0.0121
+entro: 0.01208651252090931
+Epoch: 11/1000 | Mse loss: 0.0118
+Epoch: 12/1000 | Mse loss: 0.0121
+entro: 0.011679112911224365
+Epoch: 13/1000 | Mse loss: 0.0117
+Epoch: 14/1000 | Mse loss: 0.0113
+entro: 0.01147305965423584
+Epoch: 15/1000 | Mse loss: 0.0110
+Epoch: 16/1000 | Mse loss: 0.0112
+entro: 0.011099523864686489
+Epoch: 17/1000 | Mse loss: 0.0111
+entro: 0.01088991854339838
+Epoch: 18/1000 | Mse loss: 0.0109
+Epoch: 19/1000 | Mse loss: 0.0108
+Epoch: 20/1000 | Mse loss: 0.0101
+entro: 0.010359877720475197
+Epoch: 21/1000 | Mse loss: 0.0105
+Epoch: 22/1000 | Mse loss: 0.0101
+entro: 0.01023906096816063
+Epoch: 23/1000 | Mse loss: 0.0104
+Epoch: 24/1000 | Mse loss: 0.0102
+Epoch: 25/1000 | Mse loss: 0.0104
+Epoch: 26/1000 | Mse loss: 0.0107
+Epoch: 27/1000 | Mse loss: 0.0105
+Epoch: 28/1000 | Mse loss: 0.0110
+entro: 0.010078907012939453
+Epoch: 29/1000 | Mse loss: 0.0103
+Epoch: 30/1000 | Mse loss: 0.0101
+Epoch: 31/1000 | Mse loss: 0.0106
+Epoch: 32/1000 | Mse loss: 0.0100
+entro: 0.00991279911249876
+Epoch: 33/1000 | Mse loss: 0.0096
+Epoch: 34/1000 | Mse loss: 0.0099
+Epoch: 35/1000 | Mse loss: 0.0097
+Epoch: 36/1000 | Mse loss: 0.0099
+entro: 0.009599169716238976
+Epoch: 37/1000 | Mse loss: 0.0094
+Epoch: 38/1000 | Mse loss: 0.0094
+Epoch: 39/1000 | Mse loss: 0.0094
+Epoch: 40/1000 | Mse loss: 0.0092
+Epoch: 41/1000 | Mse loss: 0.0094
+entro: 0.00937061570584774
+Epoch: 42/1000 | Mse loss: 0.0092
+Epoch: 43/1000 | Mse loss: 0.0092
+Epoch: 44/1000 | Mse loss: 0.0093
+Epoch: 45/1000 | Mse loss: 0.0091
+Epoch: 46/1000 | Mse loss: 0.0097
+Epoch: 47/1000 | Mse loss: 0.0094
+Epoch: 48/1000 | Mse loss: 0.0093
+Epoch: 49/1000 | Mse loss: 0.0089
+Epoch: 50/1000 | Mse loss: 0.0093
+Epoch: 51/1000 | Mse loss: 0.0093
+Epoch: 52/1000 | Mse loss: 0.0090
+Epoch: 53/1000 | Mse loss: 0.0092
+Epoch: 54/1000 | Mse loss: 0.0094
+Epoch: 55/1000 | Mse loss: 0.0094
+entro: 0.009126433171331882
+Epoch: 56/1000 | Mse loss: 0.0094
+Epoch: 57/1000 | Mse loss: 0.0094
+Epoch: 58/1000 | Mse loss: 0.0098
+Epoch: 59/1000 | Mse loss: 0.0097
+Epoch: 60/1000 | Mse loss: 0.0095
+Epoch: 61/1000 | Mse loss: 0.0093
+Epoch: 62/1000 | Mse loss: 0.0095
+Epoch: 63/1000 | Mse loss: 0.0093
+Epoch: 64/1000 | Mse loss: 0.0093
+Epoch: 65/1000 | Mse loss: 0.0092
+Epoch: 66/1000 | Mse loss: 0.0094
+Epoch: 67/1000 | Mse loss: 0.0094
+Epoch: 68/1000 | Mse loss: 0.0093
+Epoch: 69/1000 | Mse loss: 0.0090
+Epoch: 70/1000 | Mse loss: 0.0089
+Epoch: 71/1000 | Mse loss: 0.0089
+Epoch: 72/1000 | Mse loss: 0.0090
+Epoch: 73/1000 | Mse loss: 0.0089
+Epoch: 74/1000 | Mse loss: 0.0091
+Epoch: 75/1000 | Mse loss: 0.0089
+Epoch: 76/1000 | Mse loss: 0.0091
+Epoch: 77/1000 | Mse loss: 0.0089
+Epoch: 78/1000 | Mse loss: 0.0089
+Epoch: 79/1000 | Mse loss: 0.0089
+Epoch: 80/1000 | Mse loss: 0.0089
+Epoch: 81/1000 | Mse loss: 0.0089
+Epoch: 82/1000 | Mse loss: 0.0088
+entro: 0.008925221860408783
+Epoch: 83/1000 | Mse loss: 0.0089
+Epoch: 84/1000 | Mse loss: 0.0089
+Epoch: 85/1000 | Mse loss: 0.0087
+Epoch: 86/1000 | Mse loss: 0.0090
+Epoch: 87/1000 | Mse loss: 0.0089
+Epoch: 88/1000 | Mse loss: 0.0090
+Epoch: 89/1000 | Mse loss: 0.0088
+Epoch: 90/1000 | Mse loss: 0.0090
+Epoch: 91/1000 | Mse loss: 0.0092
+Epoch: 92/1000 | Mse loss: 0.0092
+Epoch: 93/1000 | Mse loss: 0.0090
+Epoch: 94/1000 | Mse loss: 0.0093
+Epoch: 95/1000 | Mse loss: 0.0091
+Epoch: 96/1000 | Mse loss: 0.0092
+Epoch: 97/1000 | Mse loss: 0.0090
+Epoch: 98/1000 | Mse loss: 0.0099
+Epoch: 99/1000 | Mse loss: 0.0094
+Epoch: 100/1000 | Mse loss: 0.0093
+Epoch: 101/1000 | Mse loss: 0.0092
+Epoch: 102/1000 | Mse loss: 0.0095
+Epoch: 103/1000 | Mse loss: 0.0093
+Epoch: 104/1000 | Mse loss: 0.0091
+Epoch: 105/1000 | Mse loss: 0.0091
+Epoch: 106/1000 | Mse loss: 0.0090
+entro: 0.00881913211196661
+Epoch: 107/1000 | Mse loss: 0.0087
+Epoch: 108/1000 | Mse loss: 0.0091
+Epoch: 109/1000 | Mse loss: 0.0091
+Epoch: 110/1000 | Mse loss: 0.0094
+Epoch: 111/1000 | Mse loss: 0.0087
+Epoch: 112/1000 | Mse loss: 0.0089
+entro: 0.008688045665621758
+Epoch: 113/1000 | Mse loss: 0.0090
+Epoch: 114/1000 | Mse loss: 0.0090
+Epoch: 115/1000 | Mse loss: 0.0085
+Epoch: 116/1000 | Mse loss: 0.0088
+Epoch: 117/1000 | Mse loss: 0.0091
+Epoch: 118/1000 | Mse loss: 0.0088
+Epoch: 119/1000 | Mse loss: 0.0085
+Epoch: 120/1000 | Mse loss: 0.0087
+Epoch: 121/1000 | Mse loss: 0.0086
+Epoch: 122/1000 | Mse loss: 0.0086
+Epoch: 123/1000 | Mse loss: 0.0087
+Epoch: 124/1000 | Mse loss: 0.0088
+Epoch: 125/1000 | Mse loss: 0.0087
+Epoch: 126/1000 | Mse loss: 0.0087
+Epoch: 127/1000 | Mse loss: 0.0086
+Epoch: 128/1000 | Mse loss: 0.0087
+Epoch: 129/1000 | Mse loss: 0.0087
+entro: 0.00857615564018488
+Epoch: 130/1000 | Mse loss: 0.0085
+Epoch: 131/1000 | Mse loss: 0.0089
+Epoch: 132/1000 | Mse loss: 0.0090
+Epoch: 133/1000 | Mse loss: 0.0089
+Epoch: 134/1000 | Mse loss: 0.0089
+Epoch: 135/1000 | Mse loss: 0.0086
+Epoch: 136/1000 | Mse loss: 0.0088
+Epoch: 137/1000 | Mse loss: 0.0088
+Epoch: 138/1000 | Mse loss: 0.0090
+Epoch: 139/1000 | Mse loss: 0.0087
+Epoch: 140/1000 | Mse loss: 0.0087
+Epoch: 141/1000 | Mse loss: 0.0089
+Epoch: 142/1000 | Mse loss: 0.0086
+Epoch: 143/1000 | Mse loss: 0.0087
+Epoch: 144/1000 | Mse loss: 0.0086
+Epoch: 145/1000 | Mse loss: 0.0086
+Epoch: 146/1000 | Mse loss: 0.0087
+Epoch: 147/1000 | Mse loss: 0.0088
+Epoch: 148/1000 | Mse loss: 0.0088
+Epoch: 149/1000 | Mse loss: 0.0086
+Epoch: 150/1000 | Mse loss: 0.0087
+Epoch: 151/1000 | Mse loss: 0.0085
+Epoch: 152/1000 | Mse loss: 0.0086
+Epoch: 153/1000 | Mse loss: 0.0086
+Epoch: 154/1000 | Mse loss: 0.0087
+Epoch: 155/1000 | Mse loss: 0.0088
+Epoch: 156/1000 | Mse loss: 0.0085
+Epoch: 157/1000 | Mse loss: 0.0087
+Epoch: 158/1000 | Mse loss: 0.0083
+Epoch: 159/1000 | Mse loss: 0.0088
+Epoch: 160/1000 | Mse loss: 0.0085
+Epoch: 161/1000 | Mse loss: 0.0087
+entro: 0.00843283161520958
+Epoch: 162/1000 | Mse loss: 0.0088
+Epoch: 163/1000 | Mse loss: 0.0086
+Epoch: 164/1000 | Mse loss: 0.0086
+Epoch: 165/1000 | Mse loss: 0.0084
+Epoch: 166/1000 | Mse loss: 0.0086
+Epoch: 167/1000 | Mse loss: 0.0084
+Epoch: 168/1000 | Mse loss: 0.0086
+Epoch: 169/1000 | Mse loss: 0.0087
+Epoch: 170/1000 | Mse loss: 0.0084
+Epoch: 171/1000 | Mse loss: 0.0084
+Epoch: 172/1000 | Mse loss: 0.0084
+Epoch: 173/1000 | Mse loss: 0.0086
+Epoch: 174/1000 | Mse loss: 0.0083
+Epoch: 175/1000 | Mse loss: 0.0085
+Epoch: 176/1000 | Mse loss: 0.0088
+Epoch: 177/1000 | Mse loss: 0.0085
+Epoch: 178/1000 | Mse loss: 0.0082
+Epoch: 179/1000 | Mse loss: 0.0089
+Epoch: 180/1000 | Mse loss: 0.0088
+Epoch: 181/1000 | Mse loss: 0.0085
+Epoch: 182/1000 | Mse loss: 0.0087
+Epoch: 183/1000 | Mse loss: 0.0086
+Epoch: 184/1000 | Mse loss: 0.0088
+Epoch: 185/1000 | Mse loss: 0.0088
+Epoch: 186/1000 | Mse loss: 0.0085
+Epoch: 187/1000 | Mse loss: 0.0083
+Epoch: 188/1000 | Mse loss: 0.0085
+Epoch: 189/1000 | Mse loss: 0.0082
+Epoch: 190/1000 | Mse loss: 0.0083
+Epoch: 191/1000 | Mse loss: 0.0086
+Epoch: 192/1000 | Mse loss: 0.0086
+Epoch: 193/1000 | Mse loss: 0.0084
+Epoch: 194/1000 | Mse loss: 0.0086
+Epoch: 195/1000 | Mse loss: 0.0088
+Epoch: 196/1000 | Mse loss: 0.0086
+Epoch: 197/1000 | Mse loss: 0.0084
+Epoch: 198/1000 | Mse loss: 0.0085
+Epoch: 199/1000 | Mse loss: 0.0086
+Epoch: 200/1000 | Mse loss: 0.0087
+Epoch: 201/1000 | Mse loss: 0.0083
+Stopping at epoch: 201
+Using the model saved from epoch: 161
+Computational complexity:       436.09 MMac

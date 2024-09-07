@@ -1,0 +1,28 @@
+Number of elements in the train set: 362
+Number of elements in the validation set: 93
+Number of elements in the test set: 102
+Total number of parameters: 8642739
+Epoch: 1/1000 | Mse loss: 0.0577
+entro: inf
+Epoch: 2/1000 | Mse loss: 0.0484
+entro: 0.08277078717947006
+Epoch: 3/1000 | Mse loss: 0.0167
+entro: 0.024443726986646652
+Epoch: 4/1000 | Mse loss: 0.0148
+entro: 0.015004019252955914
+Epoch: 5/1000 | Mse loss: 0.0134
+Epoch: 6/1000 | Mse loss: 0.0138
+entro: 0.013271895237267017
+Epoch: 7/1000 | Mse loss: 0.0124
+Epoch: 8/1000 | Mse loss: 0.0124
+Epoch: 9/1000 | Mse loss: 0.0123
+Epoch: 10/1000 | Mse loss: 0.0118
+entro: 0.012075894512236118
+Epoch: 11/1000 | Mse loss: 0.0114
+Epoch: 12/1000 | Mse loss: 0.0120
+entro: 0.011641220189630985
+Epoch: 13/1000 | Mse loss: 0.0113
+entro: 0.011182008311152458
+Epoch: 14/1000 | Mse loss: 0.0107
+Epoch: 15/1000 | Mse loss: 0.0107
+entro: 0.010694283992052078
